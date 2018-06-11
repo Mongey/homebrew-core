@@ -1,9 +1,9 @@
 class Neovim < Formula
   desc "Ambitious Vim-fork focused on extensibility and agility"
   homepage "https://neovim.io/"
-  url "https://github.com/neovim/neovim/archive/v0.2.2.tar.gz"
-  sha256 "a838ee07cc9a2ef8ade1b31a2a4f2d5e9339e244ade68e64556c1f4b40ccc5ed"
-  revision 1
+  url "https://github.com/neovim/neovim/releases/download/v0.3.0/nvim-macos.tar.gz"
+  version "0.3.0"
+  sha256 "b001a47199a301c025bc816f781502d5bdcfef5f344e21a81e87f6df186c91c8"
   head "https://github.com/neovim/neovim.git"
 
   bottle do
